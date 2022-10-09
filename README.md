@@ -108,6 +108,10 @@ For Cashiers :-
 	5. Have mistake in threshold value condition for "TheBigBanks" according to the criteria mentioned
 		Changed the code accordingly
 		
-	6. In the case of the RestTemplate , there is a problem of getting the actual response. So there is a confusion in the code to how refactor should do.
+	6. In the case of the RestTemplate , there is a problem of getting the actual response. So there is a 		confusion in the code to how refactor should do.
 		
+
+
+
+
 
